@@ -3,12 +3,12 @@
 	"version": "1.0",
 	"description": "A discord theme with various shades of blue.",
 	"color": "#9CDFFF",
-	"authors":Judgemite#8181 [
+	"authors":'Judgemite#8181' [
 		{
 			"name": "Sudo",
 			"id": "696446023815397456"
 		}
-	],
+	]
 	"theme_color_map": {
 		"KEYBOARD": ["#1D2A3B", "#1D2A3B"],
 		"BACKGROUND_PRIMARY": ["#1D2A3B", "#1D2A3B"],
