@@ -1,9 +1,9 @@
 {
-	"name": "UnveineBlu",
-	"version": "1.0",
+	"name": "Blu",
+	"version": "1.9",
 	"description": "A discord theme with various shades of blue.",
 	"color": "#9CDFFF",
-	"authors":     [
+	"authors": [
 		{
 			"name": "Sudo",
 			"id": "696446023815397456"
