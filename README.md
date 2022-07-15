@@ -1,2 +1,2 @@
 # unveine
-Themes amd plug-ins Discord Enmity and android 
+Themes and plug-ins Discord Enmity and android 
