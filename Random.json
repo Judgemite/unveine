@@ -4,7 +4,7 @@
      "description": "a simpel but lovely theme :).",
      "author": "Judgemite#8181",
     "theme_color_map": {
-        "KEYBOARD": ["##6f2740", "#FFFFFF"],
+        "KEYBOARD": ["#6f2740", "#FFFFFF"],
         "BACKGROUND_PRIMARY": ["#6f2740", "#FFFFFF"],
         "BACKGROUND_SECONDARY": ["#18aed4", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#874ba9", "#FFFFFF"],
@@ -12,7 +12,7 @@
         "BACKGROUND_ACCENT": ["#4C566A", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#6f2740", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#6f2740", "#FFFFFF"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#2E3440", "#FFFFFF"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#6f2740", "#FFFFFF"],
         "BACKGROUND_MOBILE_SECONDARY": ["#6f2740", "#FFFFFF"],
         "BACKGROUND_MODIFIER_HOVER": ["#874ba9", "#FFFFFF"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#874ba9", "#FFFFFF"],
