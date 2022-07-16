@@ -1,6 +1,6 @@
 # Enmity-Themes
 
-Created by: sudo#1469
+Created by: Judgemite#8181
 
 - - - -
 
@@ -9,7 +9,7 @@ A Discord Theme with various shades of blue.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu.json
+https://raw.githubusercontent.com/judgemite/unveine/main/Blu.json
 ```
 Preview:<br>
 ![](/.assets/images/blu.png)
@@ -46,7 +46,7 @@ A Discord Theme with various shades of red.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot.json
+https://raw.githubusercontent.com/judgemite/unveine/main/Merlot.json
 ```
 Preview:<br>
 ![](/.assets/images/merlot.png)
