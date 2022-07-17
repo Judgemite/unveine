@@ -21,7 +21,7 @@ A Discord Theme inspired by 1st grade art class.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown.json
+https://raw.githubusercontent.com/judgemite/Enmity-Themes/main/BozoTheClown.json
 ```
 Preview:<br>
 ![](/.assets/images/bozotheclown.png)
@@ -34,7 +34,7 @@ Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.g
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog.json
+https://raw.githubusercontent.com/judgemite/Enmity-Themes/main/CityFog.json
 ```
 Preview:<br>
 ![](/.assets/images/cityfog.png)
@@ -58,7 +58,7 @@ A Discord Theme inspired by Cydia colors.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Cydia.json
+https://raw.githubusercontent.com/judgemite/Enmity-Themes/main/Cydia.json
 ```
 Preview:<br>
 ![](/.assets/images/cydia.png)
@@ -72,11 +72,11 @@ Copy this URL and add to Enmity:<br>
 <br>
 [Option 1] No background (OLED):
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json
+https://raw.githubusercontent.com/judgemite/Enmity-Themes/main/FEFE.json
 ```
 [Option 2] 6ix9ine background:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json
+https://raw.githubusercontent.com/judgemite/Enmity-Themes/main/FEFE69.json
 ```
 Preview:<br>
 ![](/.assets/images/fefe.png)
